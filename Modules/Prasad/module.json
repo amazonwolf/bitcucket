@@ -1,0 +1,16 @@
+{
+    "name": "Prasad",
+    "alias": "prasad",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Prasad\\Providers\\PrasadServiceProvider",
+        "Modules\\Prasad\\Providers\\EventServiceProvider",
+        "Modules\\Prasad\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
