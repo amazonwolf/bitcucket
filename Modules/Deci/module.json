@@ -1,0 +1,16 @@
+{
+    "name": "Deci",
+    "alias": "deci",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Deci\\Providers\\DeciServiceProvider",
+        "Modules\\Deci\\Providers\\EventServiceProvider",
+        "Modules\\Deci\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

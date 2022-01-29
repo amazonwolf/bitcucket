@@ -1,0 +1,16 @@
+{
+    "name": "Coord",
+    "alias": "coord",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Coord\\Providers\\CoordServiceProvider",
+        "Modules\\Coord\\Providers\\EventServiceProvider",
+        "Modules\\Coord\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

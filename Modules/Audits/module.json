@@ -1,0 +1,16 @@
+{
+    "name": "Audits",
+    "alias": "audits",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Audits\\Providers\\AuditsServiceProvider",
+        "Modules\\Audits\\Providers\\EventServiceProvider",
+        "Modules\\Audits\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

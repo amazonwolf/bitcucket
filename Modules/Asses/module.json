@@ -1,0 +1,16 @@
+{
+    "name": "Asses",
+    "alias": "asses",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Asses\\Providers\\AssesServiceProvider",
+        "Modules\\Asses\\Providers\\EventServiceProvider",
+        "Modules\\Asses\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

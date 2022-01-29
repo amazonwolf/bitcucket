@@ -1,0 +1,16 @@
+{
+    "name": "Information",
+    "alias": "information",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Information\\Providers\\InformationServiceProvider",
+        "Modules\\Information\\Providers\\EventServiceProvider",
+        "Modules\\Information\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

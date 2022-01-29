@@ -1,0 +1,16 @@
+{
+    "name": "Quali",
+    "alias": "quali",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Quali\\Providers\\QualiServiceProvider",
+        "Modules\\Quali\\Providers\\EventServiceProvider",
+        "Modules\\Quali\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Clients",
+    "alias": "clients",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Clients\\Providers\\ClientsServiceProvider",
+        "Modules\\Clients\\Providers\\EventServiceProvider",
+        "Modules\\Clients\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Certi",
+    "alias": "certi",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Certi\\Providers\\CertiServiceProvider",
+        "Modules\\Certi\\Providers\\EventServiceProvider",
+        "Modules\\Certi\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

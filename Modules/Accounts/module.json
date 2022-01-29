@@ -1,0 +1,16 @@
+{
+    "name": "Accounts",
+    "alias": "accounts",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Accounts\\Providers\\AccountsServiceProvider",
+        "Modules\\Accounts\\Providers\\EventServiceProvider",
+        "Modules\\Accounts\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
